@@ -1,0 +1,30 @@
+.a1{
+background-image:url('images/hero.jpg');	
+background-repeat:no-repeat;
+background-position:center;
+height:600px;
+}
+.heading{
+	padding:10px 80px;
+	color:#fff;
+}
+.heading h1{
+	font-size:50px;
+	margin-bottom:30px;
+	font-style:italic;
+}
+.heading p{
+	font-size:25px;
+	width:50%;
+	font-weight:600;
+}
+	
+.heading a{
+	background-color:Tomato;
+	border:none;
+	padding:5px 25px;
+	color:white;
+	text-decoration:none;
+	border-radius:5px;
+	
+}
